@@ -31,8 +31,10 @@ La versión completa del Atlas utiliza información proveniente de fuentes ofici
 
 ## Autor
 
-Sebastián Elgueta Godoy  
-Sociología · políticas públicas · infraestructura digital · análisis territorial
+**[Sebastián Elgueta Godoy](https://github.com/selguetagodoy)**  
+Sociólogo y consultor en asuntos públicos, políticas públicas, telecomunicaciones, infraestructura digital, inclusión digital y análisis territorial en Chile.
+
+Perfil profesional: [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
 
 ## Uso
 
