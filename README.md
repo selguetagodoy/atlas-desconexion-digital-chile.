@@ -31,10 +31,10 @@ La versión completa del Atlas utiliza información proveniente de fuentes ofici
 
 ## Autor
 
-**[Sebastián Elgueta Godoy](https://github.com/selguetagodoy)**  
+**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/latin-america-digital-infrastructure/sebastian-elgueta-godoy.html)**  
 Sociólogo y consultor en asuntos públicos, políticas públicas, telecomunicaciones, infraestructura digital, inclusión digital y análisis territorial en Chile.
 
-Perfil profesional: [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
+Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
 
 ## Uso
 
