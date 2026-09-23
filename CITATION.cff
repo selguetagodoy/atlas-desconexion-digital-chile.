@@ -3,12 +3,13 @@ message: "Si utiliza este repositorio, cite el proyecto y las fuentes originales
 title: "Atlas de la Desconexión Digital de Chile 2026"
 type: dataset
 version: "0.1.0"
+doi: "10.5281/zenodo.22921209"
 authors:
   - family-names: "Elgueta Godoy"
     given-names: "Sebastián"
 repository-code: "https://github.com/selguetagodoy/atlas-desconexion-digital-chile."
 url: "https://github.com/selguetagodoy/atlas-desconexion-digital-chile."
-date-released: 2026-09-17
+date-released: 2026-09-23
 abstract: >-
   Proyecto de análisis territorial sobre desconexión, brecha e inclusión digital en Chile,
   desarrollado por Sebastián Elgueta Godoy a partir de fuentes públicas y evidencia comunal.
