@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921208.svg)](https://doi.org/10.5281/zenodo.22921208)
 
-Proyecto de análisis territorial sobre brecha digital en Chile, desarrollado por **Sebastián Elgueta Godoy** y presentado en el **2° Congreso Nacional de Pequeños y Medianos ISP de COTEL 2026**.
+Proyecto de análisis territorial sobre brecha digital en Chile, desarrollado por **Sebastián Elgueta Godoy**, autor de la investigación y de la base de datos asociada. El Atlas fue presentado en el **2° Congreso Nacional de Pequeños y Medianos ISP de COTEL 2026** y posteriormente difundido por COTEL mediante una versión interactiva para consulta pública.
 
 El proyecto estudia cómo la desconexión digital se distribuye de forma desigual entre territorios y distingue entre **intensidad de la brecha** y **escala social del problema**. La versión completa integra información comunal, fuentes oficiales y procesamiento propio.
 
@@ -14,6 +14,10 @@ El proyecto estudia cómo la desconexión digital se distribuye de forma desigua
 - 6,8% de los hogares válidos para la medición se encuentran sin Internet.
 - La intensidad y el volumen de la desconexión no apuntan necesariamente a las mismas comunas.
 - Las comunas con mayores tasas requieren una lectura distinta de aquellas donde el problema se concentra por número absoluto de hogares.
+
+## Autoría y propiedad de los datos
+
+**Sebastián Elgueta Godoy es el autor del Atlas de la Desconexión Digital de Chile 2026 y de la base de datos desarrollada para el proyecto.** COTEL participa como espacio de presentación, difusión sectorial y referencia institucional externa; no como autor ni propietario de la investigación o de la data.
 
 ## Qué contiene este repositorio
 
