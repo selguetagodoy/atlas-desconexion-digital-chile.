@@ -33,6 +33,21 @@ No se incluyen la base comunal completa, los microdatos, el índice territorial 
 
 El objetivo es mostrar el enfoque analítico sin liberar el activo completo de investigación.
 
+## Documento académico asociado
+
+### Una radiografía territorial del acceso, la fragilidad digital y el nuevo Índice de Vulnerabilidad Digital
+
+Documento académico de **Sebastián Elgueta Godoy** asociado al Atlas de la Desconexión Digital de Chile 2026. La ficha pública de Academia.edu registra un documento de **169 páginas** y presenta un resumen centrado en acceso, calidad de conexión, disponibilidad de dispositivos, condiciones socioeconómicas, fragilidad digital e Índice de Vulnerabilidad Digital.
+
+- [Academia.edu — documento académico](https://www.academia.edu/176096186/Una_radiograf%C3%ADa_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_%C3%8Dndice_de_Vulnerabilidad_Digital)
+- [Ficha académica del Índice de Vulnerabilidad Digital](https://selguetagodoy.github.io/indice-vulnerabilidad-digital-chile.html)
+- [Landing del Atlas](https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html)
+- [DOI del proyecto](https://doi.org/10.5281/zenodo.22921208)
+
+**Autor:** Sebastián Elgueta Godoy  
+**Año:** 2026  
+**Áreas:** brecha digital, inclusión digital, telecomunicaciones, desigualdad territorial, fragilidad digital, conectividad e Índice de Vulnerabilidad Digital.
+
 ## Validación institucional y consulta pública
 
 COTEL documenta públicamente el proyecto en varias fuentes institucionales:
