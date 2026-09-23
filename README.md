@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921208.svg)](https://doi.org/10.5281/zenodo.22921208)
 
-Muestra pública de portafolio de un proyecto de análisis territorial sobre brecha digital en Chile.
+Proyecto de análisis territorial sobre brecha digital en Chile, desarrollado por **Sebastián Elgueta Godoy** y presentado en el **2° Congreso Nacional de Pequeños y Medianos ISP de COTEL 2026**.
 
 El proyecto estudia cómo la desconexión digital se distribuye de forma desigual entre territorios y distingue entre **intensidad de la brecha** y **escala social del problema**. La versión completa integra información comunal, fuentes oficiales y procesamiento propio.
 
@@ -28,6 +28,17 @@ Este repositorio publica únicamente una **muestra metodológica y de resultados
 No se incluyen la base comunal completa, los microdatos, el índice territorial completo, la fórmula íntegra de construcción de indicadores, los scripts de producción ni los archivos cartográficos procesados.
 
 El objetivo es mostrar el enfoque analítico sin liberar el activo completo de investigación.
+
+## Validación institucional y consulta pública
+
+COTEL documenta públicamente el proyecto en varias fuentes institucionales:
+
+- [COTEL presenta el “Atlas de la Desconexión Digital”](https://cotel.cl/cotel-presenta-el-atlas-de-la-desconexion-digital/) — anuncio de la presentación a cargo de Sebastián Elgueta Godoy.
+- [La nueva Brecha Digital combina uso, dispositivos y presupuesto](https://cotel.cl/la-nueva-brecha-digital-combina-uso-dispositivos-y-presupuesto/) — identifica a Sebastián Elgueta Godoy como **autor del Atlas**.
+- [Agenda Congreso COTEL 2026](https://cotel.cl/congreso/agenda/) — registra la presentación del Atlas a cargo de Sebastián Elgueta Godoy.
+- [COTEL pone a disposición el Atlas para consulta pública](https://cotel.cl/cotel-pone-a-disposicion-el-atlas-de-la-desconexion-digital-para-consulta-publica/) — enlaza la versión pública interactiva.
+- [Atlas interactivo COTEL](https://atlas-visualizador-cotel.vercel.app/) — visualizador público con mapas, indicadores y resultados.
+- [Landing oficial del proyecto](https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html) — ficha consolidada con referencias, DOI y repositorio.
 
 ## Fuentes principales
 
