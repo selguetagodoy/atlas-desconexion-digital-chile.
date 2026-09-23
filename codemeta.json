@@ -1,0 +1,47 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Atlas de la Desconexión Digital de Chile 2026",
+  "description": "Investigación territorial y base de datos de Sebastián Elgueta Godoy sobre brecha digital, conectividad, fragilidad digital y vulnerabilidad territorial en Chile. Integra acceso, calidad de conexión, disponibilidad de dispositivos y condiciones socioeconómicas, e incorpora un Índice de Vulnerabilidad Digital.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "datePublished": "2026",
+  "version": "0.1.0",
+  "identifier": "https://doi.org/10.5281/zenodo.22921208",
+  "url": "https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html",
+  "codeRepository": "https://github.com/selguetagodoy/atlas-desconexion-digital-chile.",
+  "relatedLink": [
+    "https://www.academia.edu/176096186/Una_radiograf%C3%ADa_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_%C3%8Dndice_de_Vulnerabilidad_Digital",
+    "https://selguetagodoy.github.io/indice-vulnerabilidad-digital-chile.html",
+    "https://cotel.cl/congreso/agenda/",
+    "https://cotel.cl/la-nueva-brecha-digital-combina-uso-dispositivos-y-presupuesto/",
+    "https://cotel.cl/cotel-pone-a-disposicion-el-atlas-de-la-desconexion-digital-para-consulta-publica/"
+  ],
+  "keywords": [
+    "Sebastián Elgueta Godoy",
+    "Atlas de la Desconexión Digital de Chile",
+    "Índice de Vulnerabilidad Digital",
+    "brecha digital",
+    "fragilidad digital",
+    "conectividad",
+    "inclusión digital",
+    "telecomunicaciones",
+    "desigualdad territorial",
+    "Chile"
+  ],
+  "inLanguage": "es"
+}
