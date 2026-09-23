@@ -1,5 +1,7 @@
 # Atlas de la Desconexión Digital de Chile 2026
 
+**Latest release:** [v0.1.0](https://github.com/selguetagodoy/atlas-desconexion-digital-chile./releases/tag/v0.1.0) · Zenodo integration enabled
+
 Muestra pública de portafolio de un proyecto de análisis territorial sobre brecha digital en Chile.
 
 El proyecto estudia cómo la desconexión digital se distribuye de forma desigual entre territorios y distingue entre **intensidad de la brecha** y **escala social del problema**. La versión completa integra información comunal, fuentes oficiales y procesamiento propio.
