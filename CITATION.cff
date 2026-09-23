@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Si utiliza este repositorio, cite el proyecto y las fuentes originales documentadas."
 title: "Atlas de la Desconexión Digital de Chile 2026"
 type: dataset
+version: "0.1.0"
 authors:
   - family-names: "Elgueta Godoy"
     given-names: "Sebastián"
