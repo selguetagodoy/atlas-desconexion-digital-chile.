@@ -40,6 +40,7 @@ El objetivo es mostrar el enfoque analítico sin liberar el activo completo de i
 Documento académico de **Sebastián Elgueta Godoy** asociado al Atlas de la Desconexión Digital de Chile 2026. La ficha pública de Academia.edu registra un documento de **169 páginas** y presenta un resumen centrado en acceso, calidad de conexión, disponibilidad de dispositivos, condiciones socioeconómicas, fragilidad digital e Índice de Vulnerabilidad Digital.
 
 - [Academia.edu — documento académico](https://www.academia.edu/176096186/Una_radiograf%C3%ADa_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_%C3%8Dndice_de_Vulnerabilidad_Digital)
+- [ResearchGate — Technical Report](https://www.researchgate.net/publication/414679752_Una_radiografia_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_Indice_de_Vulnerabilidad_Digital)
 - [Ficha académica del Índice de Vulnerabilidad Digital](https://selguetagodoy.github.io/indice-vulnerabilidad-digital-chile.html)
 - [Landing del Atlas](https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html)
 - [DOI del proyecto](https://doi.org/10.5281/zenodo.22921208)
