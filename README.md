@@ -92,6 +92,14 @@ Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.li
 
 Este repositorio es una muestra de portafolio. Los resultados y materiales aquí incluidos no constituyen la publicación íntegra del Atlas ni autorizan la reproducción comercial del proyecto completo.
 
+
+## Citation and metadata
+
+- [CITATION.cff](CITATION.cff) — GitHub/academic citation metadata
+- [CITATION.bib](CITATION.bib) — BibTeX citation
+- [codemeta.json](codemeta.json) — machine-readable research metadata
+- [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
+
 ## Investigación relacionada
 
 - [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — base comunal y capas públicas de conectividad e inclusión digital.
