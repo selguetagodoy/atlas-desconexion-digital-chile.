@@ -2,7 +2,7 @@
 
 **Latest release:** [v0.1.0](https://github.com/selguetagodoy/atlas-desconexion-digital-chile./releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921208](https://doi.org/10.5281/zenodo.22921208) · [Version DOI: 10.5281/zenodo.22921209](https://doi.org/10.5281/zenodo.22921209)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921208.svg)](https://doi.org/10.5281/zenodo.22921208)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921208.svg)](https://doi.org/10.5281/zenodo.22921208)\n[![Source URL Liveness](https://github.com/selguetagodoy/atlas-desconexion-digital-chile./actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/atlas-desconexion-digital-chile./actions/workflows/source-urls.yml)
 
 Proyecto de análisis territorial sobre brecha digital en Chile, desarrollado por **Sebastián Elgueta Godoy**, autor de la investigación y de la base de datos asociada. El Atlas fue presentado en el **2° Congreso Nacional de Pequeños y Medianos ISP de COTEL 2026** y posteriormente difundido por COTEL mediante una versión interactiva para consulta pública.
 
