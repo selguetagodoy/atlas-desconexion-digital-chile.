@@ -65,6 +65,9 @@
         },
         {
           "@id": "data/source_registry.json"
+        },
+        {
+          "@id": "CITATION.md"
         }
       ]
     },
@@ -148,6 +151,12 @@
       "name": "source-registry",
       "encodingFormat": "application/json",
       "contentSize": "2405 B"
+    },
+    {
+      "@id": "CITATION.md",
+      "@type": "File",
+      "name": "Human-readable citation guide",
+      "encodingFormat": "text/markdown"
     }
   ]
 }
