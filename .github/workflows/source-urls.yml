@@ -1,6 +1,12 @@
 name: Source URL Liveness
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "data/source_registry.json"
+      - "scripts/check_source_urls.py"
+      - ".github/workflows/source-urls.yml"
   schedule:
     - cron: "0 9 * * 1"
   workflow_dispatch:
