@@ -21,10 +21,11 @@
   ],
   "datePublished": "2026",
   "version": "0.1.0",
-  "identifier": "https://doi.org/10.5281/zenodo.22921208",
+  "identifier": "https://doi.org/10.5281/zenodo.22921209",
   "url": "https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html",
   "codeRepository": "https://github.com/selguetagodoy/atlas-desconexion-digital-chile.",
   "relatedLink": [
+    "https://doi.org/10.5281/zenodo.22921208",
     "https://www.academia.edu/176096186/Una_radiograf%C3%ADa_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_%C3%8Dndice_de_Vulnerabilidad_Digital",
     "https://selguetagodoy.github.io/indice-vulnerabilidad-digital-chile.html",
     "https://cotel.cl/congreso/agenda/",
