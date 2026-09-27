@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "project": "Atlas de la Desconexión Digital de Chile 2026",
+  "maintainer": "Sebastián Elgueta Godoy",
+  "last_reviewed": "2026-09-26",
+  "scope_note": "Este registro documenta las fuentes públicas principales utilizadas por el Atlas. El repositorio publica una muestra metodológica y de resultados, no la base completa ni el pipeline íntegro.",
+  "sources": [
+    {
+      "id": "ine_censo_2024",
+      "institution": "Instituto Nacional de Estadísticas (INE)",
+      "dataset": "Censo de Población y Vivienda 2024",
+      "official_url": "https://censo2024.ine.gob.cl/resultados/",
+      "geographic_scope": "Chile",
+      "reference_period": "2024",
+      "role": "Población, hogares, viviendas y estructura territorial para denominadores y caracterización comunal",
+      "evidence_type": "fuente oficial",
+      "redistributed_here": false
+    },
+    {
+      "id": "mdsf_casen_2024",
+      "institution": "Ministerio de Desarrollo Social y Familia — Observatorio Social",
+      "dataset": "Encuesta CASEN 2024",
+      "official_url": "https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-2024",
+      "geographic_scope": "Chile",
+      "reference_period": "2024",
+      "role": "Contexto socioeconómico y variables sociales utilizadas en el análisis territorial",
+      "evidence_type": "fuente oficial",
+      "redistributed_here": false
+    },
+    {
+      "id": "subtel_internet",
+      "institution": "Subsecretaría de Telecomunicaciones (SUBTEL)",
+      "dataset": "Estudios y estadísticas — Internet",
+      "official_url": "https://www.subtel.gob.cl/estudios-y-estadisticas/internet/",
+      "geographic_scope": "Chile",
+      "reference_period": "series sectoriales",
+      "role": "Antecedentes sectoriales de conectividad y telecomunicaciones",
+      "evidence_type": "fuente oficial",
+      "redistributed_here": false
+    },
+    {
+      "id": "bcn_siit_comunas",
+      "institution": "Biblioteca del Congreso Nacional de Chile (BCN) — SIIT",
+      "dataset": "Mapoteca — Comunas de Chile",
+      "official_url": "https://www.bcn.cl/siit/mapoteca/comunas",
+      "geographic_scope": "Chile",
+      "reference_period": "vigente según publicación oficial",
+      "role": "Referencia territorial y cartografía administrativa comunal",
+      "evidence_type": "fuente oficial",
+      "redistributed_here": false
+    }
+  ]
+}
