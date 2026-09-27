@@ -91,3 +91,10 @@ Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.li
 ## Uso
 
 Este repositorio es una muestra de portafolio. Los resultados y materiales aquí incluidos no constituyen la publicación íntegra del Atlas ni autorizan la reproducción comercial del proyecto completo.
+
+## Investigación relacionada
+
+- [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — base comunal y capas públicas de conectividad e inclusión digital.
+- [Velocidades de Internet](https://selguetagodoy.github.io/dataset-velocidades-internet.html) — desempeño longitudinal de Internet y comparadores internacionales.
+- [Índice de Vulnerabilidad Digital](https://selguetagodoy.github.io/indice-vulnerabilidad-digital-chile.html) — marco analítico asociado al Atlas.
+
