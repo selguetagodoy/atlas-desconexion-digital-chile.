@@ -8,6 +8,20 @@ Proyecto de análisis territorial sobre brecha digital en Chile, desarrollado po
 
 El proyecto estudia cómo la desconexión digital se distribuye de forma desigual entre territorios y distingue entre **intensidad de la brecha** y **escala social del problema**. La versión completa integra información comunal, fuentes oficiales y procesamiento propio.
 
+## Proyecto en una mirada
+
+| Dimensión | Estado público |
+|---|---|
+| **Objeto** | Brecha, fragilidad e inclusión digital con enfoque territorial |
+| **Cobertura** | Chile; resultados y ejemplos a escala comunal |
+| **Unidad analítica** | Hogares y territorios, según la fuente utilizada |
+| **Versión citable** | Zenodo v0.1.0 · DOI 10.5281/zenodo.22921209 |
+| **Visualización** | [Atlas interactivo](https://atlas-visualizador-cotel.vercel.app/) |
+| **Documento académico** | [Una radiografía territorial del acceso, la fragilidad digital y el nuevo Índice de Vulnerabilidad Digital](https://www.academia.edu/176096186/Una_radiograf%C3%ADa_territorial_del_acceso_la_fragilidad_digital_y_el_nuevo_%C3%8Dndice_de_Vulnerabilidad_Digital) |
+| **Trazabilidad** | [Source registry](data/source_registry.json) · [Source of Truth](SOURCE_OF_TRUTH.md) |
+| **Control automático** | Verificación semanal de URLs oficiales mediante GitHub Actions |
+| **Frontera pública** | Muestra metodológica y resultados seleccionados; no incluye la base íntegra ni la fórmula completa del índice |
+
 ## Hallazgos seleccionados
 
 - 445.840 hogares sin Internet en el corte utilizado por el Atlas.
