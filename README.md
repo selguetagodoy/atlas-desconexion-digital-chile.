@@ -1,5 +1,7 @@
 # Atlas de la Desconexión Digital de Chile 2026
 
+![Research project header](assets/research-card.svg)
+
 **Latest release:** [v0.1.0](https://github.com/selguetagodoy/atlas-desconexion-digital-chile./releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921208](https://doi.org/10.5281/zenodo.22921208) · [Version DOI: 10.5281/zenodo.22921209](https://doi.org/10.5281/zenodo.22921209)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921208.svg)](https://doi.org/10.5281/zenodo.22921208)
