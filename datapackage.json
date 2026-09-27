@@ -1,0 +1,39 @@
+{
+  "profile": "data-package",
+  "name": "atlas-desconexion-digital-chile-2026",
+  "title": "Atlas de la Desconexión Digital de Chile 2026",
+  "description": "Public methodological and results sample associated with the Atlas de la Desconexión Digital de Chile 2026.",
+  "version": "0.1.0",
+  "homepage": "https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html",
+  "contributors": [
+    {
+      "title": "Sebastián Elgueta Godoy",
+      "role": "author",
+      "path": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "citation": {
+    "concept_doi": "https://doi.org/10.5281/zenodo.22921208",
+    "version_doi": "https://doi.org/10.5281/zenodo.22921209"
+  },
+  "resources": [
+    {
+      "name": "muestra-severidad",
+      "path": "data/muestra_severidad.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "muestra-volumen",
+      "path": "data/muestra_volumen.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "source-registry",
+      "path": "data/source_registry.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}
