@@ -1,0 +1,153 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.2/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.2"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Atlas de la Desconexión Digital de Chile 2026",
+      "description": "Territorial research and public dataset on digital exclusion, connectivity, digital fragility and vulnerability in Chile, associated with the Digital Vulnerability Index.",
+      "datePublished": "2026-09-23",
+      "version": "0.1.0",
+      "identifier": "https://doi.org/10.5281/zenodo.22921209",
+      "url": "https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html",
+      "creator": {
+        "@id": "https://selguetagodoy.github.io/#person"
+      },
+      "sameAs": [
+        "https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html",
+        "https://github.com/selguetagodoy/atlas-desconexion-digital-chile.",
+        "https://doi.org/10.5281/zenodo.22921209",
+        "https://doi.org/10.5281/zenodo.22921208"
+      ],
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "SOURCE_OF_TRUTH.md"
+        },
+        {
+          "@id": "CITATION.cff"
+        },
+        {
+          "@id": "CITATION.bib"
+        },
+        {
+          "@id": "codemeta.json"
+        },
+        {
+          "@id": "datapackage.json"
+        },
+        {
+          "@id": "NOTICE.md"
+        },
+        {
+          "@id": "CHANGELOG.md"
+        },
+        {
+          "@id": "CONTRIBUTING.md"
+        },
+        {
+          "@id": "data/muestra_severidad.csv"
+        },
+        {
+          "@id": "data/muestra_volumen.csv"
+        },
+        {
+          "@id": "data/source_registry.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://selguetagodoy.github.io/#person",
+      "@type": "Person",
+      "name": "Sebastián Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "name": "README",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "SOURCE_OF_TRUTH.md",
+      "@type": "File",
+      "name": "Source of Truth",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CITATION.cff",
+      "@type": "File",
+      "name": "Citation metadata (CFF)",
+      "encodingFormat": "text/yaml"
+    },
+    {
+      "@id": "CITATION.bib",
+      "@type": "File",
+      "name": "BibTeX citation",
+      "encodingFormat": "application/x-bibtex"
+    },
+    {
+      "@id": "codemeta.json",
+      "@type": "File",
+      "name": "CodeMeta metadata",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "datapackage.json",
+      "@type": "File",
+      "name": "Frictionless Data Package",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "NOTICE.md",
+      "@type": "File",
+      "name": "Authorship and reuse notice",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CHANGELOG.md",
+      "@type": "File",
+      "name": "Version history",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CONTRIBUTING.md",
+      "@type": "File",
+      "name": "Contribution policy",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "data/muestra_severidad.csv",
+      "@type": "File",
+      "name": "muestra-severidad",
+      "encodingFormat": "text/csv",
+      "contentSize": "224 B"
+    },
+    {
+      "@id": "data/muestra_volumen.csv",
+      "@type": "File",
+      "name": "muestra-volumen",
+      "encodingFormat": "text/csv",
+      "contentSize": "215 B"
+    },
+    {
+      "@id": "data/source_registry.json",
+      "@type": "File",
+      "name": "source-registry",
+      "encodingFormat": "application/json",
+      "contentSize": "2405 B"
+    }
+  ]
+}
