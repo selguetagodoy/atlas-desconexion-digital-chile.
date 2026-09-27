@@ -1,0 +1,44 @@
+name: Source URL Liveness
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: atlas-source-url-liveness
+  cancel-in-progress: false
+
+jobs:
+  check-source-urls:
+    name: Fuentes oficiales del Atlas
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Check source URLs
+        id: sourcecheck
+        run: |
+          set -o pipefail
+          python scripts/check_source_urls.py | tee source-url-report.txt
+
+      - name: Publish summary
+        if: always()
+        run: |
+          echo "## Source URL Liveness" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f source-url-report.txt ]; then
+            cat source-url-report.txt >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "El chequeo no alcanzó a generar reporte; revisar logs." >> "$GITHUB_STEP_SUMMARY"
+          fi
