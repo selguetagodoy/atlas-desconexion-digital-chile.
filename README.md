@@ -72,6 +72,8 @@ Documento académico de **Sebastián Elgueta Godoy** asociado al Atlas de la Des
 
 ## Validación institucional y consulta pública
 
+La documentación consolidada de referencias externas verificadas está disponible en [EXTERNAL_REFERENCES.md](EXTERNAL_REFERENCES.md).
+
 COTEL documenta públicamente el proyecto en varias fuentes institucionales:
 
 - [COTEL presenta el “Atlas de la Desconexión Digital”](https://cotel.cl/cotel-presenta-el-atlas-de-la-desconexion-digital/) — anuncio de la presentación a cargo de Sebastián Elgueta Godoy.
@@ -106,6 +108,7 @@ Este repositorio es una muestra de portafolio. Los resultados y materiales aquí
 - [ro-crate-metadata.json](ro-crate-metadata.json) — RO-Crate 1.2 research object metadata
 - [datapackage.json](datapackage.json) — machine-readable public data resources
 - [PUBLIC_RESOURCES.md](PUBLIC_RESOURCES.md) — human-readable index of declared public resources
+- [EXTERNAL_REFERENCES.md](EXTERNAL_REFERENCES.md) — referencias institucionales y cobertura externa verificadas
 - [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
 - [CHANGELOG.md](CHANGELOG.md) — version history and documented changes
 - [CONTRIBUTING.md](CONTRIBUTING.md) — evidence requirements for corrections and updates
